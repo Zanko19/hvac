@@ -8,10 +8,9 @@
     "build": "vite build",
     "preview": "vite preview"
   },
-  "dependencies": {
-    "tailwindcss": "^4.1.11"
-  },
+  "dependencies": {},
   "devDependencies": {
+    "tailwindcss": "^3.4.0",
     "autoprefixer": "^10.4.21",
     "postcss": "^8.5.6",
     "vite": "^7.0.4"
