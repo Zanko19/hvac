@@ -15,7 +15,7 @@ export function createFooter() {
             </div>
             <p class="text-gray-300 mb-4">
               Votre spécialiste en réfrigération et climatisation. 
-              Plus de 10 ans d'expérience au service de votre confort.
+              Plus de 10 ans d&apos;expérience au service de votre confort.
             </p>
             <p class="text-gray-300">
               Intervention rapide 24h/24 et 7j/7 dans toute l'Île-de-France.
@@ -26,7 +26,7 @@ export function createFooter() {
             <h4 class="text-lg font-semibold mb-4">Services</h4>
             <ul class="space-y-2 text-gray-300">
               <li>• Dépannage urgent</li>
-              <li>• Installation d'équipements</li>
+              <li>• Installation d&apos;équipements</li>
               <li>• Maintenance préventive</li>
               <li>• Froid industriel</li>
               <li>• Climatisation</li>

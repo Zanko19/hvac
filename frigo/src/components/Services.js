@@ -6,7 +6,7 @@ export function createServices() {
         <div class="text-center mb-16">
           <h2 class="text-4xl font-bold text-gray-800 mb-4">Nos Services</h2>
           <p class="text-xl text-gray-600 max-w-2xl mx-auto">
-            Nous intervenons sur tous types d'équipements frigorifiques pour les professionnels et particuliers
+            Nous intervenons sur tous types d&apos;équipements frigorifiques pour les professionnels et particuliers
           </p>
         </div>
         
@@ -107,8 +107,8 @@ export function createServices() {
             <p class="text-gray-600 mb-4">Conseils personnalisés pour optimiser vos installations</p>
             <ul class="text-gray-600 space-y-2">
               <li>• Audit énergétique</li>
-              <li>• Choix d'équipements</li>
-              <li>• Économies d'énergie</li>
+              <li>• Choix d&apos;équipements</li>
+              <li>• Économies d&apos;énergie</li>
               <li>• Mise aux normes</li>
             </ul>
           </div>

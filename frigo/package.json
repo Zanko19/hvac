@@ -1,18 +1,23 @@
 {
-  "name": "frigo",
+  "name": "frigoexpert",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "vercel-build": "vite build"
   },
   "devDependencies": {
-    "vite": "^7.0.4"
+    "vite": "^7.0.4",
+    "terser": "^5.24.0"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.11",
     "tailwindcss": "^4.1.11"
+  },
+  "engines": {
+    "node": ">=18.0.0"
   }
 }

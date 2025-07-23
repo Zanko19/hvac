@@ -9,7 +9,7 @@ export function createAbout() {
               Votre Expert en Réfrigération depuis plus de 10 ans
             </h2>
             <p class="text-lg text-gray-600 mb-6">
-              Avec plus d'une décennie d'expérience dans le domaine du froid, nous sommes votre partenaire de confiance 
+              Avec plus d&apos;une décennie d&apos;expérience dans le domaine du froid, nous sommes votre partenaire de confiance 
               pour tous vos besoins en réfrigération et climatisation.
             </p>
             <p class="text-lg text-gray-600 mb-8">
@@ -26,7 +26,7 @@ export function createAbout() {
                 </div>
                 <div>
                   <h3 class="font-semibold text-gray-800">Expérience</h3>
-                  <p class="text-gray-600">10+ années d'expertise</p>
+                  <p class="text-gray-600">10+ années d&apos;expertise</p>
                 </div>
               </div>
               

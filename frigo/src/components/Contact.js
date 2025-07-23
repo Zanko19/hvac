@@ -6,7 +6,7 @@ export function createContact() {
         <div class="text-center mb-16">
           <h2 class="text-4xl font-bold text-white mb-4">Contactez-nous</h2>
           <p class="text-xl text-blue-100 max-w-2xl mx-auto">
-            Besoin d'une intervention ? N'hésitez pas à nous contacter pour un devis gratuit
+            Besoin d&apos;une intervention ? N&apos;hésitez pas à nous contacter pour un devis gratuit
           </p>
         </div>
         
@@ -50,7 +50,7 @@ export function createContact() {
                   </svg>
                 </div>
                 <div>
-                  <h4 class="text-white font-semibold">Zone d'intervention</h4>
+                  <h4 class="text-white font-semibold">Zone d&apos;intervention</h4>
                   <p class="text-blue-100">Paris et Île-de-France</p>
                   <p class="text-blue-200 text-sm">Déplacement rapide</p>
                 </div>
@@ -71,13 +71,13 @@ export function createContact() {
             </div>
             
             <div class="mt-8 p-6 bg-white bg-opacity-10 rounded-xl">
-              <h4 class="text-white font-semibold mb-3">🚨 Service d'Urgence</h4>
+              <h4 class="text-white font-semibold mb-3">🚨 Service d&apos;Urgence</h4>
               <p class="text-blue-100 mb-4">
                 Panne de froid dans votre restaurant ? Problème de climatisation ? 
                 Nous intervenons en urgence 24h/24 et 7j/7.
               </p>
               <a href="tel:+33123456789" class="inline-block bg-red-500 hover:bg-red-600 text-white px-6 py-3 rounded-lg font-semibold transition-colors">
-                Appel d'urgence
+                Appel d&apos;urgence
               </a>
             </div>
           </div>
@@ -110,7 +110,7 @@ export function createContact() {
               </div>
               
               <div>
-                <label class="block text-gray-700 font-semibold mb-2">Type d'intervention *</label>
+                <label class="block text-gray-700 font-semibold mb-2">Type d&apos;intervention *</label>
                 <select required class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent">
                   <option value="">Sélectionnez...</option>
                   <option value="depannage">Dépannage urgent</option>
