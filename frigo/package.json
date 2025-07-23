@@ -6,13 +6,15 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "install": "npm install"
   },
-  "dependencies": {},
+  "dependencies": {
+    "vite": "^7.0.4"
+  },
   "devDependencies": {
     "tailwindcss": "^3.4.0",
     "autoprefixer": "^10.4.21",
-    "postcss": "^8.5.6",
-    "vite": "^7.0.4"
+    "postcss": "^8.5.6"
   }
 }
